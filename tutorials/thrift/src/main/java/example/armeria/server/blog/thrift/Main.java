@@ -10,7 +10,7 @@ import com.linecorp.armeria.server.ServerBuilder;
 import com.linecorp.armeria.server.docs.DocService;
 import com.linecorp.armeria.server.thrift.THttpService;
 
-import example.armeria.blog.thrift.BlogPost;
+import example.armeria.server.blog.thrift.BlogPost;
 
 public final class Main {
 
